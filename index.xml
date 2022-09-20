@@ -5,12 +5,7 @@
     <link>http://shenril.github.io/</link>
     <description>Recent content on Shenril&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 03:29:08 -0700</lastBuildDate>
-    
-	<atom:link href="http://shenril.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://shenril.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Satorys | Florent Batard</title>
       <link>http://shenril.github.io/satorys/</link>
